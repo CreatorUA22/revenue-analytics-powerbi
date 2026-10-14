@@ -163,7 +163,7 @@ Direct Lake Semantic Model
 Power BI Report
 
 
-## Tools & Technologies
+**## Tools & Technologies**
 
 - Power BI
 - DAX
@@ -177,7 +177,7 @@ Power BI Report
 
 ---
 
-## Data Privacy
+**## Data Privacy**
 
 All customer names and financial values shown in this repository have been anonymized or modified.
 
