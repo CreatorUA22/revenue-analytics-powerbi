@@ -163,6 +163,7 @@ Microsoft Fabric Lakehouse
 Direct Lake Semantic Model
     ↓
 Power BI Report
+```text
 
 ---
 
