@@ -162,7 +162,7 @@ Direct Lake Semantic Model
     ↓
 Power BI Report
 
-```markdown
+
 ## Tools & Technologies
 
 - Power BI
