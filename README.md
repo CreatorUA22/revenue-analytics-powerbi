@@ -161,3 +161,24 @@ Microsoft Fabric Lakehouse
 Direct Lake Semantic Model
     ↓
 Power BI Report
+
+```markdown
+## Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Fabric
+- Dataflow Gen2
+- Lakehouse
+- Direct Lake
+- SharePoint
+- Excel
+
+---
+
+## Data Privacy
+
+All customer names and financial values shown in this repository have been anonymized or modified.
+
+The screenshots are intended only to demonstrate the dashboard structure, analytical logic, and visualization approach.
