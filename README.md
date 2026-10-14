@@ -151,7 +151,7 @@ Examples of DAX measures used in the report:
 
 The original solution was designed using the following architecture:
 
-```text
+<pre>
 Source Data
     ↓
 SharePoint
@@ -163,7 +163,7 @@ Microsoft Fabric Lakehouse
 Direct Lake Semantic Model
     ↓
 Power BI Report
-```text
+</pre>
 
 ---
 
