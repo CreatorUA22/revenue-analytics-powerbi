@@ -8,6 +8,8 @@ The dashboard provides a structured view of revenue performance, customer concen
 
 The report was built using a dimensional data model and DAX measures for time intelligence, customer analysis, rolling metrics, and contribution analysis.
 
+**Tech Stack:** Power BI · DAX · Power Query · Microsoft Fabric · Direct Lake
+
 > The data shown in the screenshots has been anonymized and modified for portfolio purposes.
 
 ---
@@ -162,8 +164,9 @@ Direct Lake Semantic Model
     ↓
 Power BI Report
 
+---
 
-**## Tools & Technologies**
+## Tools & Technologies
 
 - Power BI
 - DAX
@@ -177,7 +180,7 @@ Power BI Report
 
 ---
 
-**## Data Privacy**
+## Data Privacy
 
 All customer names and financial values shown in this repository have been anonymized or modified.
 
